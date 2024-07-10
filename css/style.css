@@ -1,0 +1,46 @@
+.section{
+    padding: 20px;
+    width:600px;
+    height: 670px;
+    border: 2px solid black;
+    margin:100px 300px 100px 600px;
+}
+.container1{
+    padding: 20px;
+    width: 550px;
+    background-color: grey;
+}
+.container2{
+    padding: 10px;
+    width: 550px;
+    background-color: white;
+    justify-content: space-around;
+}
+.container3{
+    padding: 20px;
+    width: 550px;
+    background-color: grey;
+}
+.inp{
+    margin-top: 10px;
+    width: 500px;
+    height:20px;
+    padding: 20px;
+}
+button{
+    color: white;
+    background-color: green;
+    width: 550px;
+    height:40px;
+
+}
+h1,h2,p{
+    padding: 20px;;
+}
+#check{
+    background-color: rgb(85, 15, 85);
+    margin-top: 20px;
+}
+label{
+    font-size: x-large;
+}
